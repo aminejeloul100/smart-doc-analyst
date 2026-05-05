@@ -1,0 +1,46 @@
+2026-05-03 23:35:37,611 | Classifier agent - image: data/test/facture/doc_80.png
+2026-05-03 23:35:37,612 | Erreur CNN: [Errno 2] No such file or directory: 'data/test/facture/doc_80.png'
+2026-05-04 15:22:28,153 | Classifier agent - image: data/test/facture/doc_0.png
+2026-05-04 15:22:29,365 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 500 Internal Server Error"
+2026-05-04 15:25:57,030 | Classifier agent - image: data/test/facture/doc_0.png
+2026-05-04 15:26:00,881 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-04 15:26:00,882 | Classification: facture (100.0%)
+2026-05-04 15:26:40,148 | Validation humaine: OK - categorie=facture
+2026-05-04 15:26:40,149 | Summarizer agent - categorie: facture
+2026-05-04 15:26:52,714 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-04 15:26:52,725 | Resume genere pour: facture
+2026-05-05 17:35:11,319 | Classifier agent - image: data/test/facture/doc_0.png
+2026-05-05 17:35:15,074 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 17:35:15,086 | Classification: facture (100.0%)
+2026-05-05 17:35:30,162 | Validation humaine: OK - categorie=facture
+2026-05-05 17:35:30,162 | Summarizer agent - categorie: facture
+2026-05-05 17:35:43,201 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 17:35:43,212 | Resume genere pour: facture
+2026-05-05 17:39:49,934 | Classifier agent - image: data/test/facture/doc_0.png
+2026-05-05 17:39:51,907 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 17:39:51,908 | Classification: facture (100.0%)
+2026-05-05 17:42:17,489 | Classifier agent - image: data/test/facture/doc_0.png
+2026-05-05 17:42:19,786 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 17:42:19,786 | Classification: facture (100.0%)
+2026-05-05 17:42:26,983 | Validation humaine: OK - categorie=facture
+2026-05-05 17:42:26,983 | Summarizer agent - categorie: facture
+2026-05-05 17:42:42,276 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 17:42:42,277 | Resume genere pour: facture
+2026-05-05 20:35:38,886 | Classifier agent - image: C:/Users/Med Amine/smart-doc-analyst/data/test/article/doc_0.png
+2026-05-05 20:35:43,485 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 20:35:43,485 | Classification: article (100.0%)
+2026-05-05 20:35:55,450 | Summarizer agent - categorie: article
+2026-05-05 20:36:15,193 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 20:36:15,194 | Resume genere pour: article
+2026-05-05 20:36:40,902 | Classifier agent - image: C:/Users/Med Amine/Desktop/Document_Scanner/document.jpg
+2026-05-05 20:36:44,413 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 20:36:44,413 | Classification: facture (40.06%)
+2026-05-05 20:36:50,612 | Summarizer agent - categorie: facture
+2026-05-05 20:37:04,675 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 20:37:04,676 | Resume genere pour: facture
+2026-05-05 20:40:08,484 | Classifier agent - image: C:/Users/Med Amine/smart-doc-analyst/data/test/lettre/doc_2.png
+2026-05-05 20:40:11,659 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 20:40:11,659 | Classification: lettre (100.0%)
+2026-05-05 20:40:13,153 | Summarizer agent - categorie: lettre
+2026-05-05 20:40:30,263 | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-05-05 20:40:30,264 | Resume genere pour: lettre
